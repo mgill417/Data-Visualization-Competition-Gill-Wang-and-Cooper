@@ -1,3 +1,10 @@
+# 2024 Data Visualization Competition- NWRM Region. 
+A key outcome of interest in the Northwest & Rocky Mountain (NWRM) region is "Supporting Right-Size Investing and Infrastructure". This outcome seeks to address gaps in the understanding of needs between funders and small to mid-sized producers. Specifically, the NWRM RBC hopes to identify which types of investment encourage development of the region’s food systems in order to propose well-researched investments to funders. To that end, the goal of this visualization is to improve access to capital in the NWRM region by identifying factors that contribute to the development of local food systems, and where opportunity exists for counties of various rurality levels. To achieve this, we focus on the following indicators:
+1. **Local Food Sales in All Counties of the NWRM Region**: Indicates the economic activity and performance of food businesses within the region; a measure of local food system development.
+2. **Estimators of Local Sales in the NWRM Region**: Identifies key factors driving local sales, guiding effective investments. County-level variables include: the number of local food sellers, the count of meat processing institutions (MPI), and the rural/urban dimension of the county.
+3. **Producer Equity and Food Access Indicators in the NWRM Region**: Includes the number of BIPOC producers per county and the percentage of the population with low food access, ensuring investments promote inclusivity and accessibility.
+
+
 # USDA AMS - Data and Metrics
 
 The Data and Metrics initiative is focused on fostering greater data efficacy and literacy across local and regional food systems by engaging project stakeholders in completing a gap analysis of existing local and regional food system data, fostering peer mentorship, and providing technical assistance. In part to accomplish these goals, teams of researchers and community partners reviewed and compiled available data using an equity lens into a single data warehouse to facilitate analysis and visualization.
