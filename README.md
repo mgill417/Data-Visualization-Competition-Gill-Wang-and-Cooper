@@ -4,6 +4,17 @@ A key outcome of interest in the Northwest & Rocky Mountain (NWRM) region is "Su
 2. **Estimators of Local Sales in the NWRM Region**: Identifies key factors driving local sales, guiding effective investments. County-level variables include: the number of local food sellers, the count of meat processing institutions (MPI), and the rural/urban dimension of the county.
 3. **Producer Equity and Food Access Indicators in the NWRM Region**: Includes the number of BIPOC producers per county and the percentage of the population with low food access, ensuring investments promote inclusivity and accessibility.
 
+## Note about Code Files in July 19 Deliverables Folder
+
+*Note, this project had several authors with various strengths. As such, we used two code files:
+
+*Pt. 1. Stata .do File code of data scraping and organization, ending with an excel export. 
+*Pt. 2 RMD file of data visualization, beginning with a title and subsequent {r setup}. Ends with a pdf export. 
+
+We have also compiled these into one .rtf document. 
+
+## Note about raw data file: The data file was too large to upload to github, but the dropbox source from the USDA Data Warehouse is: https://www.dropbox.com/scl/fo/zpxmg4ka2j7iol1bxrtsn/AO96kkZEZxNww3kFw4HVvVM/data_final?e=5&preview=df_localfoodsales.csv&rlkey=172aq18oknqbct2d5rjm9n1xl&subfolder_nav_tracking=1&dl=0 
+
 
 # USDA AMS - Data and Metrics
 
